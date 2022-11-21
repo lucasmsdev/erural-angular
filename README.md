@@ -1,27 +1,17 @@
-# EruralAngular
+Olá eu sou o Lucas, vim apresentar o projeto que desenvolvi para o desafio técnico.
+Eu sei que tinha 72 horas para desenvolvimento porem tive que realizar o projeto antes pois eu tenho compromisso o dia inteiro nesta segunda (21/11/2022).
+Eu queria ter deixado melhor, pois me dediquei bastante, espero que gostem!.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+Link dos repositórios: 
 
-## Development server
+Back-End com Ruby on Rails:  https://github.com/lucasmsdev/erural-api
+(Utilizei o docker desktop para rodar a aplicação com rails)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Front-End com Angular: https://github.com/lucasmsdev/erural-angular
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Passos para iniciar a aplicação: 
+1-	Abra o arquivo ERURAL-API e inicie com o seguinte comado no terminal: docker compose up.
+2-	Abra o arquivo ERURAL-ANGULAR e inicie com o seguinte comando no terminal: ng serve (ou npm start se tiver o npm instalado em sua máquina).
+3-	 Depois só entrar na url, que está definida como localhost:4200.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
